@@ -14,7 +14,9 @@ npm install
 // In your Algorand Sandbox directory, run the following command
 ./sandbox goal account list
 
-// Copy one of the account addresses and update ADDR_CREATOR, it will look something like this, EXWYCKUQXOSKGUU7RHTVFLNDVFPSDJRB5DABIA7I6BVHFYQD4CQJYZX3NA
+// Copy one of the account addresses and update ADDR_CREATOR
+// It will look something like this, 
+"EXWYCKUQXOSKGUU7RHTVFLNDVFPSDJRB5DABIA7I6BVHFYQD4CQJYZX3NA"
 ```
 
 4. Run command to use the .env file in this demo
