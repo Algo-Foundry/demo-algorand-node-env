@@ -7,9 +7,9 @@ This repository contains some sample javascript files to demostrate some of the 
 npm install
 ```
 
-2. Create .env.example and rename it to .env
+2. Duplicate the `.env.example` file and rename it to `.env`.
    
-3. Update `ADDR_CREATOR` address in .env file
+3. Update `ADDR_CREATOR` address in `.env` file
 ```
 // In your Algorand Sandbox directory, run the following command
 ./sandbox goal account list
